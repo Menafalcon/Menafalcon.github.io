@@ -14,4 +14,3 @@ Personal portfolio website for **Youssef Khelifi**, full-stack developer and AI 
 ## Contact
 - **Email:** [Youssef.Khelifi13@gmail.com](mailto:Youssef.Khelifi13@gmail.com)
 - **LinkedIn:** [youssef-khelifi-2327043b2](https://linkedin.com/in/youssef-khelifi-2327043b2)
-- **GitHub:** [Menafalcon](https://github.com/Menafalcon)
